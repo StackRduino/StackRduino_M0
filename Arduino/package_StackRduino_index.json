@@ -15,8 +15,8 @@
             "category": "Contributed",
             "url": "https://github.com/StackRduino/StackRduino_M0/blob/master/Arduino/StackRduino-0.0.1.zip?raw=true",
             "archiveFileName": "StackRduino-0.0.1.zip",
-            "checksum": "SHA-256:461b296b11ddee0194078aa4d8300a9a66eb353897123b37a8eaf465b1d0793b",
-            "size": "5092654",
+            "checksum": "SHA-256:949962d024335a3728693652f9fa1fbc37e61c9dbbba79d52f1f53974a8d7e19",
+            "size": "6003990",
             "boards": [
               {
                 "name": "StackRduino M0 Pro"
