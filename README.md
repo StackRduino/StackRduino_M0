@@ -26,18 +26,16 @@ With support for Adafruit CircuitPython, Arduino IDE, and other libraries the St
  ## Software Development
 ### StackRduino Forks and Dev Branches
 
-- [Arduino](https://github.com/robotics-masters/mm1-hat-arduino)
-- [ArduPilot](https://github.com/robotics-masters/ardupilot)
-- [Bootloader](https://github.com/robotics-masters/mm1-hat-bootloader)
-- [CircuitPython](https://github.com/robotics-masters/mm1-hat-cpy-native)
+- [Arduino](https://github.com/StackRduino/StackRduino_M0/tree/master/Arduino)
+- [Bootloader](https://github.com/StackRduino/StackRduino_M0/tree/master/Bootloader)
+- [CircuitPython](https://github.com/StackRduino/StackRduino_M0/tree/master/Circuitpython)
 
 ### Official Repositories
 
-- [ArduPilot by ArduPilot](https://github.com/ArduPilot/ardupilot/)
 - [Bootloader by Adafruit](https://github.com/adafruit/uf2-samdx1/)
 - [Bootloader by Microsoft](https://github.com/Microsoft/uf2-samdx1)
 - [CircuitPython by Adafruit](https://github.com/adafruit/circuitpython)
-- [SeeSaw by Adafruit](https://github.com/adafruit/seesaw)
+
 
 ## License
 
