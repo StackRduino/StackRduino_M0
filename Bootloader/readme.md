@@ -14,7 +14,7 @@ sudo apt-get update
 sudo apt-get install gcc-arm-embedded
 ```
 
-## Step 3 Compile Board
+### Step 3 Compile Board
 ```
 make BOARD=stackrduino_m0_pro
 ```
