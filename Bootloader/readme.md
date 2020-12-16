@@ -21,14 +21,14 @@ make BOARD=stackrduino_m0_pro
 
 ## Updating Firmware
 ### Option 1
-Attach StackRduino M0 PRO to your computer via USB.
-Double Tap 'reset' button to put board into UF2 Bootloader mode
-Download the update-bootloader-M0-PRO uf2 file 
-Copy update-bootloader-M0-PRO.uf2 to the USB Drive called "StackRduino"
-Done.
+- Attach StackRduino M0 PRO to your computer via USB.
+- Double Tap 'reset' button to put board into UF2 Bootloader mode
+- Download the update-bootloader-M0-PRO uf2 file 
+- Copy update-bootloader-M0-PRO.uf2 to the USB Drive called "StackRduino"
+- Done.
 ### Option 2
-Attach StackRduino M0 PRO to your computer via USB.
-Download the  update-bootloader-M0-PRO ino file 
-Open the file using the Arduino ide and select the board and port for the StackRduino M0 pro.
-Upload the bootloader via normall upload icon
-Done.
+- Attach StackRduino M0 PRO to your computer via USB.
+- Download the  update-bootloader-M0-PRO ino file 
+- Open the file using the Arduino ide and select the board and port for the StackRduino M0 pro.
+- Upload the bootloader via normall upload icon
+- Done.
