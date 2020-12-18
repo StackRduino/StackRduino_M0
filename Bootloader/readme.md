@@ -1,5 +1,5 @@
 # StackRduino M0 PRO UF2 bootloader 
-## Repository for building Adafruit UF2 bootloader for the StackRduino M0 PRO .
+## Adafruit UF2 bootloader for the StackRduino M0 PRO .
 
 ### Step 1 - Clone Repository and Set Up Environment
 ```
